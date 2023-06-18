@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm David (@lemessdavi), a Brazilian student of so
 
   - Proficient in Java and Spring Boot for back-end development.
   - Experienced in working with Laravel framework.
-  - Familiar with PostgreSQL for database management.
+  - Proficient with PostgreSQL for database management.
 
 📫 You can reach me via email at ndlemes7@outlook.com.
 
