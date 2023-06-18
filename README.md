@@ -1,4 +1,4 @@
-👋 Hi there, David!
+👋 Hi there!
 
 Welcome to my GitHub profile! I'm David (@lemessdavi), a Brazilian student of software engineering. I have a passion for coffee, and I'm always excited about expanding my knowledge by learning new tools and technologies.
 
