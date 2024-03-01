@@ -1,12 +1,12 @@
 👋 Hi there!
 
-Welcome to my GitHub profile! I'm David (@lemessdavi), a Brazilian student of software engineering. I have a passion for coffee, and I'm always excited about expanding my knowledge by learning new tools and technologies.
+Welcome to my GitHub profile! I'm David (@lemessdavi), a Brazilian Mobile Software Engineer and student of Software Engineering. I have a passion for coffee, and I'm always excited about expanding my knowledge by learning new tools and technologies.
 
 👨🏼‍💻 Skills and Interests:
 
-  - Proficient in Java and Spring Boot for back-end development.
-  - Experienced in working with Laravel framework.
-  - Proficient with PostgreSQL for database management.
+  - Proficient in React Native Mobile Develpoment.
+  - Proficient in working with Java both in back-end and Android.
+  - Experienced with Swift for iOS Development.
 
 📫 You can reach me via email at ndlemes7@outlook.com.
 
@@ -18,12 +18,14 @@ I have been coding since 2017 and started my journey in High School with a Certi
 🏫 Currently, I'm pursuing a degree in Software Engineering at UDESC, where I have been an enthusiastic university student since May 2021.
 
 💼 Professional Experience:
-Since February 2023, I have been working as a Data Migration Analyst at IPM Systems, where I specialize in working with databases throughout the day. This role has allowed me to further enhance my expertise in data migration and database management.
+Data Migration Analyst at IPM Systems (February 2023 - July 2023):
+During this period, I served as a Data Migration Analyst at IPM Systems, focusing on database operations throughout the day. This role allowed me to deepen my expertise in data migration and database management, contributing to my professional growth.
 
-🧠 Extended Knowledge:
-I have an extended knowledge of software design patterns, including MVC, Builder, and Method Factory, among others. Understanding these patterns has been instrumental in developing efficient and maintainable software solutions.
+Junior Laravel Backend Engineer at Soeltech (July 2023 - September 2023):
+I transitioned to the role of a Junior Laravel PHP Backend Developer from July to September 2023. This experience provided me with hands-on involvement in developing backend solutions using Laravel and PHP, contributing to my proficiency in web development.
 
-🚀 Latest Projects:
-I'm proud to showcase my latest projects, Teachfy and TicketPortal, both of which are public on my GitHub. Teachfy, built in Laravel, demonstrates my skills in web development, while TicketPortal, developed using Java, Spring Boot, and PostgreSQL, highlights my expertise in back-end development.
+Mobile Engineer at Soeltech (August 2023 - Present):
+Since August 2023, I have been working as a Mobile Engineer, specializing in developing cross-platform applications using React Native. Migrating and maintaining various legacy applications in Native Java and Swift. I actively implement best practices, architectural principles, and process definitions to ensure the maintenance and scalability of all developed apps. In addition to hands-on development, my role encompasses documentation, management, and assistance to my mobile team. This includes the documentation of processes, requirements gathering, architectural decisions, and seeking solutions to client issues. I actively contribute to the overall efficiency and success of our mobile development projects.
+
 
 Feel free to explore my GitHub repositories to see the projects I've been working on. If you have any questions or would like to collaborate, please don't hesitate to reach out. I'm always open to new opportunities and exciting projects.
