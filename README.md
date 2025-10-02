@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm Davi (@lemessdavi), a Brazilian Mobile Software Engine
 - **Java** for back-end and Android development
 - **Swift** for iOS Development
 
-📫 **Reach me at**: ndlemes7@outlook.com
+📫 **Reach me at**: contact@lemessdavi.com
 
 💻 **Connect on LinkedIn**: [lemessdavi](https://www.linkedin.com/in/lemessdavi/)
 
@@ -22,5 +22,3 @@ Welcome to my GitHub! I'm Davi (@lemessdavi), a Brazilian Mobile Software Engine
 - **Backend Engineer at Soeltech** (Jul 2023 - Sep 2023): Developed backend solutions with Laravel/PHP and Node.js.
 - **Mobile Engineer at Soeltech** (Jul 2023 - Present): Built cross-platform apps using React Native and maintained legacy applications in Java and Swift.
 - **Lead Mobile Engineer at Soeltech** (Mar 2024 - Present): Leading mobile projects, implementing best practices, and ensuring app scalability and maintenance.
-
-Feel free to explore my GitHub repositories. If you have any questions or would like to collaborate, please reach out. I'm always open to new opportunities and exciting projects!
