@@ -1,11 +1,6 @@
 👋 Hi there!
 
-Welcome to my GitHub! I'm Davi (@lemessdavi), a Brazilian Mobile Software Engineer and Software Engineering student. I have a passion for coffee and continuously expand my knowledge by learning new tools and technologies.
-
-👨🏼‍💻 **Skills and Interests:**
-- **React Native Mobile Development**
-- **Java** for back-end and Android development
-- **Swift** for iOS Development
+Welcome to my GitHub! I'm Davi (@lemessdavi), a Brazilian Mobile Software Engineer. I value a healthy lifestyle and study every day; focusing on Expo, mobile development, and topics beyond the tech bubble.
 
 📫 **Reach me at**: contact@lemessdavi.com
 
